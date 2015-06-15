@@ -1,0 +1,28 @@
+\(J \cdot \(\frac{d\omega}{dt}\)  \)= \(\sum \limits_{i=1}^n \(\tau_i\)=\(- \(K_b\) \cdot \omega(t) \) + \(\(K_m\) \cdot i(t) \) 
+
+
+u(t) = \(\(K_m\) \cdot i(t) \)
+
+
+\(V_{emf}\)(t) = \(\(K_{b}\) \cdot \omega(t) \)
+
+
+\(V_{app}\)(t) = \(L \cdot \frac{di}{dt} \)+\(R \cdot i(t) \) + \(V_{emf}\)
+
+\(V_{L}\) = \(L \cdot  \(\frac{di}{dt}\) \)
+
+\(V_{R}\) = \(R \cdot i \)
+
+
+\dot{\(V_{c}\)}
+
+
+
+
+V(t): Applied voltage
+L: Armature self inductance
+R: Armature resistence
+\(V_{b}\): Back emf constant
+\(\theta_{m}\): mechanical rotor angle
+\(\tau_{m}\): generated torque
+\(\tau_{l}\): load torque

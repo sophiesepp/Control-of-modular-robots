@@ -1,0 +1,42 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{latex}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Lamport}{L.}%
+     {Leslie}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Addison-Wesley Professional}%
+  }
+  \strng{namehash}{LL1}
+  \strng{fullhash}{LL1}
+  \field{labelalpha}{Lam94}
+  \field{sortinit}{L}
+  \field{title}{LaTeX : A Documentation Preparation System User's Guide and
+  Reference Manual}
+  \field{year}{1994}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput
