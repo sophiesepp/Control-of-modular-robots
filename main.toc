@@ -2,7 +2,7 @@
 \defcounter {refsection}{0}\relax 
 \select@language {american}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Abstract}{iii}{chapter*.1}
+\contentsline {chapter}{\nonumberline Abstract}{ii}{chapter*.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \defcounter {refsection}{0}\relax 
@@ -14,20 +14,20 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.1.2}Implementing the equations in Matlab}{4}{subsection.2.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Implementing the Simulink Model}{4}{section.2.2}
+\contentsline {section}{\numberline {2.2}Implementing the Simulink Model}{5}{section.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Deriving a dynamical model of the actuators and combining it with the Simulink Model of task 1ii)}{5}{chapter.3}
+\contentsline {chapter}{\numberline {3}Deriving a dynamical model of the actuators and combining it with the Simulink Model of chapter 2.2}{6}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Deriving a dynamical model of the actuators}{5}{section.3.1}
+\contentsline {section}{\numberline {3.1}Deriving a dynamical model of the actuators}{6}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.1}Theoretical background: DC motor}{5}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.1}Theoretical background: DC motor}{6}{subsection.3.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.2}Equations describing DC motor}{7}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.2}Equations describing DC motor}{8}{subsection.3.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Conclusion}{9}{chapter.4}
+\contentsline {chapter}{\numberline {4}Conclusion}{10}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline List of Figures}{10}{appendix*.10}
+\contentsline {chapter}{\nonumberline List of Figures}{11}{appendix*.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline List of Tables}{11}{appendix*.11}
+\contentsline {chapter}{\nonumberline List of Tables}{12}{appendix*.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline References}{12}{appendix*.12}
+\contentsline {chapter}{\nonumberline References}{13}{appendix*.12}

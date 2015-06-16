@@ -1,10 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.6.13)  15 JUN 2015 20:36
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.6.13)  16 JUN 2015 10:53
 entering extended mode
-**C:/Users/Sophie/Documents/Uni/Control*of*Modular*Robots/Presentation_Report_t
-emplate/Report*template/main.tex
-
-("C:/Users/Sophie/Documents/Uni/Control of Modular Robots/Presentation_Report_t
-emplate/Report template/main.tex"
+**C:/Users/Sophie/Documents/GitHub/Report/main.tex
+(C:/Users/Sophie/Documents/GitHub/Report/main.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -30,60 +27,6 @@ Package nag Info: Loaded nag-orthodox.cfg  on input line 552.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\nag\nag-orthodox.cfg"
 File: nag-orthodox.cfg 2006/04/19 v1.8 strict rules for nag.sty (ulmi)
 ))
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9 ,
-     bibliography=totoc,BCOR=12mm,DIV=12]{scrbook} % two-sided
-? 
-Missing character: There is no , in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no = in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no B in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no O in font nullfont!
-Missing character: There is no R in font nullfont!
-Missing character: There is no = in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no D in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no V in font nullfont!
-Missing character: There is no = in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no ] in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no k in font nullfont!
 ("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrbook.cls"
 Document Class: scrbook 2015/05/06 v3.17a KOMA-Script document class (book)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrkbase.sty"
@@ -116,23 +59,6 @@ Package tocbasic Info: omitting babel extension for `lof'
 Package tocbasic Info: omitting babel extension for `lot'
 (tocbasic)             because of feature `nobabel' available
 (tocbasic)             for `lot' on input line 126.
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 9--498
-[]
- []
-
-
-! LaTeX Error: The font size command \normalsize is not defined:
-               there is probably something wrong with the class file.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.498 \KOMAExecuteOptions{twocolumn=false}
-                                          
-? 
-[1]
 Package tocbasic Info: defining new hook before heading of `' on input line 154
 8.
 Class scrbook Info: You've used standard option `oneside'.
@@ -143,7 +69,8 @@ Class scrbook Info: You've used standard option `oneside'.
 (scrbook)           instead of `oneside', too.
 Class scrbook Info: File `scrsize11pt.clo' used to setup font sizes on input li
 ne 2152.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrsize11pt.clo"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrsize11pt.clo"
 File: scrsize11pt.clo 2015/05/06 v3.17a KOMA-Script font size class option (11p
 t)
 )
@@ -197,9 +124,7 @@ Package typearea Info: These are the values describing the layout:
 \c@figure=\count89
 \c@table=\count90
 \bibindent=\dimen102
-)
-("C:\Users\Sophie\Documents\Uni\Control of Modular Robots\Presentation_Report_t
-emplate\Report template\settings/packages.tex"
+) (C:\Users\Sophie\Documents\GitHub\Report\settings/packages.tex
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks15
@@ -1664,95 +1589,19 @@ Package: psfrag 1998/04/11 v3.04 PSfrag (MCG)
 \pfg@scount=\count352
 \pfg@temp=\write5
 ))
-("C:\Users\Sophie\Documents\Uni\Control of Modular Robots\Presentation_Report_t
-emplate\Report template\settings/settings.tex"
+(C:\Users\Sophie\Documents\GitHub\Report\settings/settings.tex
 \glswrite=\write6
 \glo@main@file=\write7
 Package glossaries Info: Writing glossary file main.glo on input line 8.
 \glo@acronym@file=\write8
 Package glossaries Info: Writing glossary file main.acn on input line 8.
 )
-("C:\Users\Sophie\Documents\Uni\Control of Modular Robots\Presentation_Report_t
-emplate\Report template\settings/commands.tex")
-("C:\Users\Sophie\Documents\Uni\Control of Modular Robots\Presentation_Report_t
-emplate\Report template\glossary/terms.tex"
-! Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.20 }
-      
-? 
-! Undefined control sequence.
-\GenericError  ...                                
-                                                    #4  \errhelp \@err@     ...
-l.20 }
-      
-? 
-! Undefined control sequence.
-\GenericError  ...                                
-                                                  \let \@err@               ...
-l.20 }
-      
-? 
-! Undefined control sequence.
-\GenericError  ...                                
-                                                  \@empty \def \MessageBreak...
-l.20 }
-      
-? 
-! Undefined control sequence.
-\GenericError  ...                                
-                                                     \endgroup 
-l.20 }
-      
-? 
-! Missing \endcsname inserted.
-<to be read again> 
-                   \relax 
-l.20 }
-      
-? 
-
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.20 }
-      
-? 
-! Missing { inserted.
-<to be read again> 
-                   \let 
-l.20 }
-      
-? 
-)
-Runaway text?
-\let \def \MessageBreak  
-                \def   \errmessage  LaTeX Er\ETC.
-! File ended while scanning text of \errhelp.
-<inserted text> 
-                }
-l.18 \input{glossary/terms}
-                           
-? 
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21 \begin{document}
-                     
-? 
+(C:\Users\Sophie\Documents\GitHub\Report\settings/commands.tex)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package biblatex Info: Trying to load language 'american'...
 Package biblatex Info: ... file 'american.lbx' found.
+
 ("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\lbx\american.lbx"
 File: american.lbx 2015/04/19 v3.0 biblatex localization (PK/JW/AB)
 Package biblatex Info: Trying to load language 'english'...
@@ -1761,23 +1610,657 @@ Package biblatex Info: ... file 'english.lbx' found.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\lbx\english.lbx"
 File: english.lbx 2015/04/19 v3.0 biblatex localization (PK/JW/AB)
 ))
-Runaway argument?
-{########1
-! TeX capacity exceeded, sorry [main memory size=3000000].
-\etb@patchcmd ...tchcmd \\etb@patchcmd {########1}
-                                                  
-l.21 \begin{document}
-                     
-If you really absolutely need more capacity,
-you can ask a wizard to enlarge me.
+(C:\Users\Sophie\Documents\GitHub\Report\main.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Try loading font information for T1+pplx on input line 15.
 
- 
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pplx.fd"
+File: t1pplx.fd 2004/09/06 font definitions for T1/pplx.
+)
+Package nag Info: pgf.sty is broken: disabling dollar check on input line 15.
+Package nag Info: Command \RaggedLeft not defined, skipping amendment on input 
+line 15.
+Package nag Info: Command \RaggedRight not defined, skipping amendment on input
+ line 15.
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+
+
+Package biblatex Warning: Data encoding is 'utf8'.
+(biblatex)                Use backend=biber.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' found.
+(C:\Users\Sophie\Documents\GitHub\Report\main.bbl)
+Package biblatex Info: Reference section=0 on input line 15.
+Package biblatex Info: Reference segment=0 on input line 15.
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count353
+\scratchdimen=\dimen218
+\scratchbox=\box48
+\nofMPsegments=\count354
+\nofMParguments=\count355
+\everyMPshowfont=\toks54
+\MPscratchCnt=\count356
+\MPscratchDim=\dimen219
+\MPnumerator=\count357
+\makeMPintoPDFobject=\count358
+\everyMPtoPDFconversion=\toks55
+)
+\c@lstlisting=\count359
+Package scrhack Info: undefining \float@addtolists on input line 15.
+ ABD: EveryShipout initializing macros
+Package pgfplots notification 'compat/show suggested version=true': you might b
+enefit from \pgfplotsset{compat=1.12} (current compat level: 1.9).
+
+LaTeX Info: Redefining \microtypecontext on input line 15.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-ppl.cfg"
+File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\ltcaption.sty"
+Package: ltcaption 2013/02/03 v1.3-62 longtable captions (AR)
+)
+Package caption Info: supertabular package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box49
+Package hyperref Info: Link coloring OFF on input line 15.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count360
+)
+LaTeX Info: Redefining \ref on input line 15.
+LaTeX Info: Redefining \pageref on input line 15.
+LaTeX Info: Redefining \nameref on input line 15.
+
+(C:\Users\Sophie\Documents\GitHub\Report\main.out)
+(C:\Users\Sophie\Documents\GitHub\Report\main.out)
+\@outlinefile=\write9
+Package nag Info: Command \hc@caption not defined, skipping amendment on input 
+line 15.
+LaTeX Font Info:    Font shape `T1/pplx/m/sl' in size <10.95> not available
+(Font)              Font shape `T1/pplx/m/it' tried instead on input line 19.
+ [1
+Non-PDF special ignored!
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(C:\Users\Sophie\Documents\GitHub\Report\pages/title.tex
+<logos/tum.pdf, id=73, 55.20625pt x 30.1125pt>
+File: logos/tum.pdf Graphic file (type pdf)
+ <use logos/tum.pdf>
+Package pdftex.def Info: logos/tum.pdf used on input line 5.
+(pdftex.def)             Requested size: 113.81102pt x 62.08203pt.
+LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <20.74> not available
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 17.
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 23.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pplx.fd"
+File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
+)
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 23.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlzplm.fd"
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 23.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omszplm.fd"
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 23.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxzplm.fd"
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 23.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1zplm.fd"
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `zplm' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [1
+
+
+
+ <C:/Users/Sophie/Documents/GitHub/Report/logos/tum.pdf>])
+(C:\Users\Sophie\Documents\GitHub\Report\pages/abstract.tex
+LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 1.
+) [2
+
+
+]
+Package tocbasic Info: character protrusion at toc deactivated on input line 26
+.
+
+(C:\Users\Sophie\Documents\GitHub\Report\main.toc)
+\tf@toc=\write10
+ [3
+
+
+]
+(C:\Users\Sophie\Documents\GitHub\Report\chapters/introduction.tex
+Chapter 1.
+) (C:\Users\Sophie\Documents\GitHub\Report\chapters/chapter1.texpdfTeX warning 
+(ext4): destination with the same identifier (name{page.1}) has been already us
+ed, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1 \chapter
+            {Obtaining the Equations of Motion using the Newton-Euler formul...
+[1
+
+
+
+]
+Chapter 2.
+LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 6.
+LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <12> not available
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 11.
+
+LaTeX Warning: File `figures/Rotational velocities and accelerations.jpg' not f
+ound on input line 18.
+
+
+<figures/Rotational velocities and accelerations.jpg, id=122, 289.08pt x 49.183
+75pt>
+File: figures/Rotational velocities and accelerations.jpg Graphic file (type jp
+g)
+ <use figures/Rotational velocities and accelerations.jpg>
+Package pdftex.def Info: figures/Rotational velocities and accelerations.jpg us
+ed on input line 18.
+(pdftex.def)             Requested size: 289.07928pt x 49.18361pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \\F
+        or the linear accelerations of the single joints we use the formula:
+? 
+
+LaTeX Warning: File `figures/Linear accelerations of single joints.jpg' not fou
+nd on input line 26.
+
+
+<figures/Linear accelerations of single joints.jpg, id=123, 292.09125pt x 41.15
+375pt>
+File: figures/Linear accelerations of single joints.jpg Graphic file (type jpg)
+
+ <use figures/Linear accelerations of single joints.jpg>
+Package pdftex.def Info: figures/Linear accelerations of single joints.jpg used
+ on input line 26.
+(pdftex.def)             Requested size: 292.09052pt x 41.15364pt.
+ [2
+
+
+ <C:/Users/Sophie/Documents/GitHub/Report/figures/Rotational velocities and acc
+elerations.jpg>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 \\T
+        o find the linear acceleration of the center of mass of each link we...
+
+? 
+
+LaTeX Warning: File `figures/Linear acceleration for the center of mass of each
+ link.jpg' not found on input line 45.
+
+
+<figures/Linear acceleration for the center of mass of each link.jpg, id=130, 3
+03.1325pt x 30.1125pt>
+File: figures/Linear acceleration for the center of mass of each link.jpg Graph
+ic file (type jpg)
+
+<use figures/Linear acceleration for the center of mass of each link.jpg>
+Package pdftex.def Info: figures/Linear acceleration for the center of mass of 
+each link.jpg used on input line 45.
+(pdftex.def)             Requested size: 303.13176pt x 30.11241pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.55 \\I
+        n the backwards phase we use the following equations to compute the ...
+
+? 
+
+LaTeX Warning: File `figures/Equation Force.jpg' not found on input line 62.
+
+<figures/Equation Force.jpg, id=131, 154.5775pt x 46.1725pt>
+File: figures/Equation Force.jpg Graphic file (type jpg)
+
+<use figures/Equation Force.jpg>
+Package pdftex.def Info: figures/Equation Force.jpg used on input line 62.
+(pdftex.def)             Requested size: 154.5771pt x 46.17236pt.
+
+
+LaTeX Warning: File `figures/Equation Torque 1.jpg' not found on input line 64.
+
+
+<figures/Equation Torque 1.jpg, id=132, 262.9825pt x 42.1575pt>
+File: figures/Equation Torque 1.jpg Graphic file (type jpg)
+
+<use figures/Equation Torque 1.jpg>
+Package pdftex.def Info: figures/Equation Torque 1.jpg used on input line 64.
+(pdftex.def)             Requested size: 262.98184pt x 42.15738pt.
+
+
+LaTeX Warning: File `figures/Forces and torques acting on each joint.jpg' not f
+ound on input line 66.
+
+
+<figures/Forces and torques acting on each joint.jpg, id=133, 292.09125pt x 43.
+16125pt>
+File: figures/Forces and torques acting on each joint.jpg Graphic file (type jp
+g)
+ <use figures/Forces and torques acting on each joint.jpg>
+Package pdftex.def Info: figures/Forces and torques acting on each joint.jpg us
+ed on input line 66.
+(pdftex.def)             Requested size: 292.09052pt x 43.16113pt.
+
+Overfull \hbox (177.95964pt too wide) has occurred while \output is active
+[] |\T1/pplx/m/it/10.95 2 Obtaining the Equations of Motion using the Newton-Eu
+ler formulation and creating a preliminary Simulink model of the robotic arm []
+
+ []
+
+[3 <C:/Users/Sophie/Documents/GitHub/Report/figures/Linear accelerations of sin
+gle joints.jpg> <C:/Users/Sophie/Documents/GitHub/Report/figures/Linear acceler
+ation for the center of mass of each link.jpg> <C:/Users/Sophie/Documents/GitHu
+b/Report/figures/Equation Force.jpg> <C:/Users/Sophie/Documents/GitHub/Report/f
+igures/Equation Torque 1.jpg> <C:/Users/Sophie/Documents/GitHub/Report/figures/
+Forces and torques acting on each joint.jpg>]
+
+LaTeX Warning: File `figures/Three Links.jpg' not found on input line 84.
+
+<figures/Three Links.jpg, id=142, 440.64626pt x 207.77625pt>
+File: figures/Three Links.jpg Graphic file (type jpg)
+
+<use figures/Three Links.jpg>
+Package pdftex.def Info: figures/Three Links.jpg used on input line 84.
+(pdftex.def)             Requested size: 440.64517pt x 207.77573pt.
+
+Overfull \hbox (22.38962pt too wide) in paragraph at lines 84--85
+ [] 
+ []
+
+
+Overfull \hbox (177.95964pt too wide) has occurred while \output is active
+[] |\T1/pplx/m/it/10.95 2 Obtaining the Equations of Motion using the Newton-Eu
+ler formulation and creating a preliminary Simulink model of the robotic arm []
+
+ []
+
+[4 <C:/Users/Sophie/Documents/GitHub/Report/figures/Three Links.jpg>])
+(C:\Users\Sophie\Documents\GitHub\Report\chapters/chapter2.tex
+Overfull \hbox (177.95964pt too wide) has occurred while \output is active
+[] |\T1/pplx/m/it/10.95 2 Obtaining the Equations of Motion using the Newton-Eu
+ler formulation and creating a preliminary Simulink model of the robotic arm []
+
+ []
+
+[5
+
+]
+Chapter 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+<figures/DC-motor.jpg, id=152, 353.32pt x 262.9825pt>
+File: figures/DC-motor.jpg Graphic file (type jpg)
+
+<use figures/DC-motor.jpg>
+Package pdftex.def Info: figures/DC-motor.jpg used on input line 18.
+(pdftex.def)             Requested size: 353.31914pt x 262.98184pt.
+ [6
+
+
+]
+Overfull \hbox (34.89821pt too wide) has occurred while \output is active
+[] |\T1/pplx/m/it/10.95 3 Deriving a dynamical model of the actuators and combi
+ning it with the Simulink Model of chapter 2.2 []
+ []
+
+[7 <C:/Users/Sophie/Documents/GitHub/Report/figures/DC-motor.jpg>]
+
+LaTeX Warning: File `figures/Circuit diagram for armature controlled DC motor.j
+pg' not found on input line 34.
+
+
+<figures/Circuit diagram for armature controlled DC motor.jpg, id=162, 413.545p
+t x 242.9075pt>
+File: figures/Circuit diagram for armature controlled DC motor.jpg Graphic file
+ (type jpg)
+
+<use figures/Circuit diagram for armature controlled DC motor.jpg>
+Package pdftex.def Info: figures/Circuit diagram for armature controlled DC mot
+or.jpg used on input line 34.
+(pdftex.def)             Requested size: 413.54398pt x 242.90689pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
+
+ []
+
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 \(V_{L}\) = \(L \cdot  \(
+                              \frac{di}{dt}\) \) \\
+? 
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 \(V_{L}\) = \(L \cdot  \(\frac{di}{dt}\) \)
+                                                 \\
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+
+Overfull \hbox (34.89821pt too wide) has occurred while \output is active
+[] |\T1/pplx/m/it/10.95 3 Deriving a dynamical model of the actuators and combi
+ning it with the Simulink Model of chapter 2.2 []
+ []
+
+[8
+
+ <C:/Users/Sophie/Documents/GitHub/Report/figures/Circuit diagram for armature 
+controlled DC motor.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+
+! Package inputenc Error: Unicode char \u8:ω not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 ...is proportional to the angular velocity ω
+                                                  (t) seen at the shaft.  Vb...
+
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+
+ []
+
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68 \(V_{emf}\)(t) = \(\(
+                          V_{b}\) \cdot \omega(t) \) \\
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.68 \(V_{emf}\)(t) = \(\(V_{b}\) \cdot
+                                        \omega(t) \) \\
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.74 \(J \cdot \(
+                 \frac{d\omega}{dt}\)  \)= \(\sum \limits_{i=1}^n \(\tau_i\)...
+
+? 
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.74 \(J \cdot \(\frac{d\omega}{dt}\)  \)
+                                         = \(\sum \limits_{i=1}^n \(\tau_i\)...
+
+? 
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.74 ...mega}{dt}\)  \)= \(\sum \limits_{i=1}^n \(
+                                                  \tau_i\)=\(- \(V_b\) \cdot...
+
+? 
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.74 ...= \(\sum \limits_{i=1}^n \(\tau_i\)=\(- \(
+                                                  V_b\) \cdot \omega(t) \) +...
+
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.74 ...imits_{i=1}^n \(\tau_i\)=\(- \(V_b\) \cdot
+                                                   \omega(t) \) + \(\(K_m\) ...
+
+? 
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.74 ..._i\)=\(- \(V_b\) \cdot \omega(t) \) + \(\(
+                                                  K_m\) \cdot i(t) \)  \\
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.74 ...V_b\) \cdot \omega(t) \) + \(\(K_m\) \cdot
+                                                   i(t) \)  \\
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+ []
+
+
+! Package inputenc Error: Unicode char \u8:ω not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.76 ...mf constant Kb and the angular velocity ω
+                                                  .
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+
+! LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.81 u(t) = \(\(
+                K_m\) \cdot i(t) \)
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.81 u(t) = \(\(K_m\) \cdot
+                            i(t) \)
+? 
+) (C:\Users\Sophie\Documents\GitHub\Report\chapters/conclusion.tex
+Overfull \hbox (34.89821pt too wide) has occurred while \output is active
+[] |\T1/pplx/m/it/10.95 3 Deriving a dynamical model of the actuators and combi
+ning it with the Simulink Model of chapter 2.2 []
+ []
+
+[9
+
+]
+Chapter 4.
+) [10
+
+
+]
+Package tocbasic Info: character protrusion at lof deactivated on input line 46
+.
+ (C:\Users\Sophie\Documents\GitHub\Report\main.lof)
+\tf@lof=\write11
+ [11
+
+
+]
+Package tocbasic Info: character protrusion at lot deactivated on input line 47
+.
+
+(C:\Users\Sophie\Documents\GitHub\Report\main.lot)
+\tf@lot=\write12
+ [12
+
+
+]
+
+Package glossaries Warning: No \printglossary or \printglossaries found.
+(Remove \makeglossaries if you don't want any glossaries.)
+This document will not have a glossary.
+
+No complaints by nag.
+[13
+
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 54.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 54.
+ (C:\Users\Sophie\Documents\GitHub\Report\main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 54.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 54.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: C6A8CB6C178C4EB2D93F1C142C7FEA21;1219.
+Package logreq Info: Writing requests to 'main.run.xml'.
+ ) 
 Here is how much of TeX's memory you used:
- 39706 strings out of 493921
- 853998 string characters out of 3147279
- 3000001 words of memory out of 3000000
- 42345 multiletter control sequences out of 15000+200000
- 4709 words of font info for 16 fonts, out of 3000000 for 9000
+ 41227 strings out of 493921
+ 878579 string characters out of 3147279
+ 1440542 words of memory out of 3000000
+ 43581 multiletter control sequences out of 15000+200000
+ 42500 words of font info for 148 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 75i,4n,83p,1940b,807s stack positions out of 5000i,500n,10000p,200000b,50000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 75i,8n,83p,1879b,1728s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc} <C:\Users\Sophi
+e\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/mathpazo/fplmr.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/mathpazo/fplmri.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
+palatino/uplb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8
+a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on main.pdf (17 pages, 440483 bytes).
+PDF statistics:
+ 254 PDF objects out of 1000 (max. 8388607)
+ 41 named destinations out of 1000 (max. 500000)
+ 26295 words of extra memory for PDF output out of 29859 (max. 10000000)
+

@@ -5,7 +5,7 @@
 \BOOKMARK [2][-]{subsection.2.1.1}{Theoretical background}{section.2.1}% 5
 \BOOKMARK [2][-]{subsection.2.1.2}{Implementing the equations in Matlab}{section.2.1}% 6
 \BOOKMARK [1][-]{section.2.2}{Implementing the Simulink Model}{chapter.2}% 7
-\BOOKMARK [0][-]{chapter.3}{Deriving a dynamical model of the actuators and combining it with the Simulink Model of task 1ii\)}{}% 8
+\BOOKMARK [0][-]{chapter.3}{Deriving a dynamical model of the actuators and combining it with the Simulink Model of chapter 2.2}{}% 8
 \BOOKMARK [1][-]{section.3.1}{Deriving a dynamical model of the actuators}{chapter.3}% 9
 \BOOKMARK [2][-]{subsection.3.1.1}{Theoretical background: DC motor}{section.3.1}% 10
 \BOOKMARK [2][-]{subsection.3.1.2}{Equations describing DC motor}{section.3.1}% 11
